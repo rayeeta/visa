@@ -26,5 +26,10 @@ name of the sorted file. If the file does not exist,
 we display a user-friendly error message 
 asking the user to check the filename and try again.
 
+Tags similar to branches, but the difference is that tags are immutable.
+➢ It means, tag is a branch, which nobody intends to modify. Once a tag is created for a particular
+commit, even if you create a new commit, it will not be updated.
+➢ Usually, developers create tags for product release
+
 Ray project ends
 
